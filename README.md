@@ -1,4 +1,5 @@
 ![Java CI with Gradle]([https://github.com/komshuk/Card/.github/workflows/gradle.yml/badge.svg)
+
 # Домашнее задание к занятию «2.2. Selenide»
 
 В качестве результата пришлите ссылку на ваш GitHub-проект в личном кабинете студента на сайте [netology.ru](https://netology.ru).
