@@ -1,4 +1,4 @@
-![Java CI with Gradle]([https://github.com/komshuk/Card/.github/workflows/gradle.yml/badge.svg)
+![](https://myoctocat.com/assets/images/base-octocat.svg)(https://github.com/komshuk/Card/)
 
 # Домашнее задание к занятию «2.2. Selenide»
 
