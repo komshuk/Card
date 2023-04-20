@@ -1,4 +1,4 @@
-![Java CI with Gradle] ([https://github.com/komshuk/Card/.github/workflows/gradle.yml/badge.svg)
+![Java CI with Gradle]([https://github.com/komshuk/Card/.github/workflows/gradle.yml/badge.svg)
 
 # Домашнее задание к занятию «2.2. Selenide»
 
