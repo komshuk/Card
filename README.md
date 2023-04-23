@@ -1,4 +1,4 @@
-![](https://myoctocat.com/assets/images/base-octocat.svg)(https://github.com/komshuk/Card/)
+[![Java CI with Gradle](https://github.com/komshuk/Card/actions/workflows/blank.yml/badge.svg)](https://github.com/komshuk/Card/actions/workflows/blank.yml)
 
 # Домашнее задание к занятию «2.2. Selenide»
 
